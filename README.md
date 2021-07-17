@@ -1,16 +1,21 @@
 # Welcome
 ### Spotify-Status 🎧
-[![Spotify](https://novatorem-amber-nine.vercel.app/api/spotify)](https://open.spotify.com/user/bloedboemmel)
+<p float="left" >
+  <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
+  <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
+</p>
 
-![Your very best cyber grandma](https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg)
-# Ok
 
-#
-![Top Langs](https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=bloedboemmel)
-![Anurag's GitHub stats](https://letstrys-bloedboemmel.vercel.app/api?username=bloedboemmel&show_icons=true&theme=radical)
-## Did you know that...
-... Santa Claus was given an official pilot's license in 1927?
-### [And here's something to relax](http://www.5z8.info/open.exe_h2n6lk_worm)
+<a href="https://github.com/bloedboemmel">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=bloedboemmel&show_icons=true&theme=radical" height="250"/>
+  
+</a>
+<a href="https://github.com/bloedboemmel">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=bloedboemmel&theme=radical"  height="250"/>
+</a>
+
+## Stop stalking, start talking!
+### Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [bloedboemmel/novatorem](https://github.com/bloedboemmel/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
 2. 📔 Created new repository [bloedboemmel/readme](https://github.com/bloedboemmel/readme)
@@ -20,7 +25,11 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 17th, 2021, 7:34:26 PM
+Last Updated: Saturday, July 17th, 2021, 6:59:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
-# and goodbye!
-x
+
+
+## Did you know that...
+... Santa Claus was given an official pilot's license in 1927?
+
+# **[and goodbye!](http://www.5z8.info/open.exe_h2n6lk_worm)**
