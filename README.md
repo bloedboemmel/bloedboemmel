@@ -11,5 +11,5 @@
 ## Did you know that...
 ... Santa Claus was given an official pilot's license in 1927?
 ### [And here's something to relax](http://www.5z8.info/open.exe_h2n6lk_worm)
-https://open.spotify.com/user/bloedboemmel?si=6a7801a3caf94b01
+<!--START_SECTION:activity-->
 # and goodbye!
