@@ -30,6 +30,6 @@ Last Updated: Saturday, July 17th, 2021, 7:55:39 PM
 
 
 ## Did you know that...
-... Santa Claus was given an official pilot's license in 1927?
+... <!--STARTS_HERE_QUOTE_README--> <!--ENDS_HERE_QUOTE_README-->
 
 # **[and goodbye!](http://www.5z8.info/open.exe_h2n6lk_worm)**
