@@ -31,7 +31,7 @@ Last Updated: Sunday, July 18th, 2021, 10:37:28 PM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
+<i>❝HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # **[and goodbye!](http://www.5z8.info/open.exe_h2n6lk_worm)**
