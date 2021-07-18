@@ -31,7 +31,7 @@ Last Updated: Sunday, July 18th, 2021, 10:37:28 PM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
+<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # **[and goodbye!](http://www.5z8.info/open.exe_h2n6lk_worm)**
