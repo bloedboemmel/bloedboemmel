@@ -31,7 +31,7 @@ Last Updated: Sunday, July 18th, 2021, 6:13:50 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
+<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # **[and goodbye!](http://www.5z8.info/open.exe_h2n6lk_worm)**
