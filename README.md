@@ -17,10 +17,8 @@
 ## Stop stalking, start talking!
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
 
+<!--RECENT_ACTIVITY:last_update-->
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
