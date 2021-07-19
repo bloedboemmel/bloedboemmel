@@ -18,13 +18,11 @@
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 19th, 2021, 6:14:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # **[and goodbye!](http://www.5z8.info/open.exe_h2n6lk_worm)**
