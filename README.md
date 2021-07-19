@@ -18,8 +18,7 @@
 ### Recent activity
 
 
-<!--RECENT_ACTIVITY:start-->
-
+<!--RECENT_ACTIVITY:last_update-->
 
 
 ## Did you know that...
