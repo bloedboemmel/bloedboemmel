@@ -17,13 +17,6 @@
 ## Stop stalking, start talking!
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bloedboemmel/novatorem](https://github.com/bloedboemmel/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
-2. ⭐ Starred [Festify/app](https://github.com/Festify/app)
-3. 📔 Created new repository [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel)
-4. ⭐ Starred [RainerWein/SuperKomischesPraktikum](https://github.com/RainerWein/SuperKomischesPraktikum)
-5. ⭐ Starred [RainerWein/SuperKomischesPraktikum](https://github.com/RainerWein/SuperKomischesPraktikum)
-<!--RECENT_ACTIVITY:end-->
-
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Monday, July 19th, 2021, 6:14:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
