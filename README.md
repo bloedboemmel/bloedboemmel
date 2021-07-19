@@ -20,7 +20,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update-->
+
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
