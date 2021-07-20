@@ -19,15 +19,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#84](https://github.com/Readme-Workflows/recent-activity/issues/84) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ❗️ Opened issue [#84](https://github.com/Readme-Workflows/recent-activity/issues/84) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-4. ⭐ Starred [eth-cscs/SummerSchool2021](https://github.com/eth-cscs/SummerSchool2021)
-5. 🔱 Forked [bloedboemmel/novatorem](https://github.com/bloedboemmel/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
+1. ⭐ Starred [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
+2. ⭐ Starred [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
+3. ❗️ Opened issue [#584](https://github.com/marcizhu/marcizhu/issues/584) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+4. ✔️ Closed issue [#84](https://github.com/Readme-Workflows/recent-activity/issues/84) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ❗️ Opened issue [#84](https://github.com/Readme-Workflows/recent-activity/issues/84) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 19th, 2021, 7:57:39 PM
+Last Updated: Tuesday, July 20th, 2021, 1:55:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
