@@ -19,15 +19,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
-2. ⭐ Starred [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
-3. ❗️ Opened issue [#584](https://github.com/marcizhu/marcizhu/issues/584) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. ✔️ Closed issue [#84](https://github.com/Readme-Workflows/recent-activity/issues/84) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ❗️ Opened issue [#84](https://github.com/Readme-Workflows/recent-activity/issues/84) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ❗️ Opened issue [#12](https://github.com/bloedboemmel/readme-connect4/issues/12) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+2. ❗️ Opened issue [#11](https://github.com/bloedboemmel/readme-connect4/issues/11) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+3. ✔️ Closed issue [#3](https://github.com/bloedboemmel/readme-connect4/issues/3) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+4. ✔️ Closed issue [#7](https://github.com/bloedboemmel/readme-connect4/issues/7) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+5. ✔️ Closed issue [#4](https://github.com/bloedboemmel/readme-connect4/issues/4) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 20th, 2021, 1:55:20 AM
+Last Updated: Wednesday, July 21st, 2021, 1:52:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
