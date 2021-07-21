@@ -77,12 +77,19 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
+1. ❗️ Opened issue [#33](https://github.com/bloedboemmel/readme-connect4/issues/33) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+2. ❗️ Opened issue [#32](https://github.com/bloedboemmel/readme-connect4/issues/32) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+3. ❗️ Opened issue [#31](https://github.com/bloedboemmel/readme-connect4/issues/31) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+4. ❗️ Opened issue [#30](https://github.com/bloedboemmel/readme-connect4/issues/30) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+5. ✔️ Closed issue [#29](https://github.com/bloedboemmel/readme-connect4/issues/29) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, July 21st, 2021, 9:21:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
+<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
