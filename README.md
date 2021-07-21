@@ -91,4 +91,5 @@ Last Updated: Wednesday, July 21st, 2021, 9:21:42 PM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
+<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
