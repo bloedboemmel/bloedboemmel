@@ -11,9 +11,9 @@ from github import Github
 
 import src.markdown as markdown
 
-
 RED = 1
-YELLOW  = 2
+YELLOW = 2
+
 
 class Action(Enum):
     UNKNOWN = 0
@@ -28,7 +28,7 @@ def update_top_moves(user):
         dictionary = ast.literal_eval(contents)
 
     if user not in dictionary:
-        dictionary[user] = 1 # First move
+        dictionary[user] = 1  # First move
     else:
         dictionary[user] += 1
 
@@ -61,21 +61,18 @@ def replace_text_between(original_text, marker, replacement_text):
 def parse_issue(title):
     """Parse issue title and return a tuple with (action, <move>)"""
     if title.lower() == 'connect4: start new game':
-        return (Action.NEW_GAME, None)
+        return Action.NEW_GAME, None
 
     if 'connect4: put' in title.lower():
         match_obj = re.match('Connect4: Put ([1-8])', title, re.I)
-
         source = match_obj.group(1)
+        return Action.MOVE, int(source)
 
-        return (Action.MOVE, int(source))
-
-    return (Action.UNKNOWN, title)
+    return Action.UNKNOWN, title
 
 
 def main(issue, issue_author, repo_owner):
     action = parse_issue(issue.title)
-    print(action)
     Conn = connect4()
 
     with open('data/settings.yaml', 'r') as settings_file:
@@ -93,12 +90,8 @@ def main(issue, issue_author, repo_owner):
         with open('data/last_moves.txt', 'w') as last_moves:
             last_moves.write('Start game: ' + issue_author)
 
-        # Create new game
         Conn.create_newgame()
-        #game.headers['Event'] = repo_owner + '\'s Online Open Connect4 Tournament'
-        #game.headers['Site'] = 'https://github.com/' + os.environ['GITHUB_REPOSITORY']
-        #game.headers['Date'] = datetime.now().strftime('%Y.%m.%d')
-        #game.headers['Round'] = '1'
+
 
     elif action[0] == Action.MOVE:
         if not os.path.exists('games/current.p'):
@@ -110,12 +103,11 @@ def main(issue, issue_author, repo_owner):
         with open('data/last_moves.txt') as moves:
             line = moves.readline()
             last_player = line.split(':')[1].strip()
-            last_move   = line.split(':')[0].strip()
+            last_move = line.split(':')[0].strip()
 
-
-
+        #### This is, if many player join it, will switch it off till then
         # Check if player is moving twice in a row
-        #if last_player == issue_author and 'Start game' not in last_move:
+        # if last_player == issue_author and 'Start game' not in last_move:
         #    issue.create_comment(settings['comments']['consecutive_moves'].format(author=issue_author))
         #    issue.edit(state='closed', labels=['Invalid'])
         #    return False, 'ERROR: Two moves in a row!'
@@ -151,8 +143,8 @@ def main(issue, issue_author, repo_owner):
         elif finished == 2:
 
             issue.create_comment(settings['comments']['no_space'].format(num_moves=Conn.rounds,
-                                                                          num_players=len(Conn.player),
-                                                                          players=Conn.player))
+                                                                         num_players=len(Conn.player),
+                                                                         players=Conn.player))
             issue.edit(state='closed', labels=issue_labels)
         else:
 
@@ -167,17 +159,16 @@ def main(issue, issue_author, repo_owner):
 
 
     elif action[0] == Action.UNKNOWN:
-        issue.create_comment(settings['comments']['unknown_command'].format(author=issue_author) + f"Command: {action[1]}")
+        issue.create_comment(
+            settings['comments']['unknown_command'].format(author=issue_author) + f"Command: {action[1]}")
         issue.edit(state='closed', labels=['Invalid'])
         return False, f'ERROR: "{action[1]}" Unknown action'
-
-
 
     with open('README.md', 'r') as file:
         readme = file.read()
         readme = replace_text_between(readme, settings['markers']['board'], '{chess_board}')
         readme = replace_text_between(readme, settings['markers']['moves'], '{moves_list}')
-        readme = replace_text_between(readme, settings['markers']['turn'],  '{turn}')
+        readme = replace_text_between(readme, settings['markers']['turn'], '{turn}')
         readme = replace_text_between(readme, settings['markers']['last_moves'], '{last_moves}')
         readme = replace_text_between(readme, settings['markers']['top_moves'], '{top_moves}')
 
@@ -195,14 +186,10 @@ def main(issue, issue_author, repo_owner):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) >= 2 and sys.argv[1] == '--self-test':
-        selftest.run(main)
-        sys.exit(0)
-    else:
-        repo = Github(os.environ['GITHUB_TOKEN']).get_repo(os.environ['GITHUB_REPOSITORY'])
-        issue = repo.get_issue(number=int(os.environ['ISSUE_NUMBER']))
-        issue_author = '@' + issue.user.login
-        repo_owner = '@' + os.environ['REPOSITORY_OWNER']
+    repo = Github(os.environ['GITHUB_TOKEN']).get_repo(os.environ['GITHUB_REPOSITORY'])
+    issue = repo.get_issue(number=int(os.environ['ISSUE_NUMBER']))
+    issue_author = '@' + issue.user.login
+    repo_owner = '@' + os.environ['REPOSITORY_OWNER']
 
     ret, reason = main(issue, issue_author, repo_owner)
 
