@@ -56,3 +56,33 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 ## It's messy
 
 I know this code is still quite messy. I will work on it at [My Connect4-Repo](https://github.com/bloedboemmel/readme-connect4). There you can play too. If you have issues, create an issue there.
+
+
+
+# Hey Bloedboemmel, what else do you do? 
+### Spotify-Status 🎧
+<p float="left" >
+  <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
+  <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
+</p>
+
+<a href="https://github.com/bloedboemmel">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=bloedboemmel&show_icons=true&theme=radical" height="200"/>
+  
+</a>
+<a href="https://github.com/bloedboemmel">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=bloedboemmel&theme=radical"  height="200"/>
+</a>
+
+## Stop stalking, start talking!
+### Recent activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+
+## Did you know that...
+... <!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
