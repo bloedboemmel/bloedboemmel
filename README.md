@@ -77,15 +77,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#33](https://github.com/bloedboemmel/readme-connect4/issues/33) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
-2. ❗️ Opened issue [#32](https://github.com/bloedboemmel/readme-connect4/issues/32) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
-3. ❗️ Opened issue [#31](https://github.com/bloedboemmel/readme-connect4/issues/31) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
-4. ❗️ Opened issue [#30](https://github.com/bloedboemmel/readme-connect4/issues/30) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+1. 📔 Created new repository [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
+2. ⭐ Starred [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
+3. ⭐ Starred [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
+4. 💬 Commented on [#84](https://github.com/Readme-Workflows/recent-activity/issues/84#issuecomment-882817832) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 5. ✔️ Closed issue [#29](https://github.com/bloedboemmel/readme-connect4/issues/29) in [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 21st, 2021, 9:21:42 PM
+Last Updated: Wednesday, July 21st, 2021, 9:28:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
