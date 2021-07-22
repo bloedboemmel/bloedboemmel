@@ -38,6 +38,8 @@ comments:
   # Error message shown after an invalid command to the chess bot
   unknown_command: "{author} Sorry, I can't understand the command. Please try again and do not modify the issue title!"
 
+  big_error: "Hi {author}, something completely messed up. {repo_owner} will work on it as soon as possible. Till then no other moves are accepted!"
+
 issues:
   link: "https://github.com/{repo}/issues/new?{params}"
   move:

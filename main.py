@@ -186,12 +186,21 @@ def main(issue, issue_author, repo_owner):
 
 
 if __name__ == '__main__':
+
     repo = Github(os.environ['GITHUB_TOKEN']).get_repo(os.environ['GITHUB_REPOSITORY'])
     issue = repo.get_issue(number=int(os.environ['ISSUE_NUMBER']))
     issue_author = '@' + issue.user.login
     repo_owner = '@' + os.environ['REPOSITORY_OWNER']
+    try:
+        ret, reason = main(issue, issue_author, repo_owner)
 
-    ret, reason = main(issue, issue_author, repo_owner)
-
-    if ret == False:
-        sys.exit(reason)
+        if ret == False:
+            sys.exit(reason)
+    except:
+        os.rename("./README.md", "./OldReadMe/FAULTYREADME.md")
+        os.rename("./OldReadMe/FALLBACKREADME.md", "./README.md")
+        if not os.path.exists("./.github/_workflows"):
+            os.makedirs("./.github/_workflows")
+        os.rename("./.github/workflows/Connect4.yml", "./.github/_workflows/Connect4.yml")
+        issue.create_comment(settings['comments']['big_error'].format(author=issue_author, repo_owner=repo_owner))
+        issue.edit(labels=['bug'])
