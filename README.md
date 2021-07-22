@@ -1,4 +1,4 @@
-GitHub README Connect4
+# GitHub README Connect4
 
 Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->red<!-- END TURN --> piece.
 
@@ -17,7 +17,7 @@ Here you can play Connect4. It's your turn to play! Just click under the grid, w
 <!-- END MOVES LIST -->
 Having fun? Ask a friend to do the next move!
 
-#### How it works
+## How it works
 
 When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
 
@@ -59,8 +59,9 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 
 
 
+
 # Hey Bloedboemmel, what else do you do? 
-### Spotify-Status 🎧
+## Spotify-Status 🎧
 <p float="left" >
   <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
   <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
@@ -77,7 +78,7 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 
 
 ## Stop stalking, start talking!
-### Recent activity
+## Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [bloedboemmel/SummerSchool2021](https://github.com/bloedboemmel/SummerSchool2021) from [eth-cscs/SummerSchool2021](https://github.com/eth-cscs/SummerSchool2021)
 2. ⭐ Starred [eth-cscs/SummerSchool2021](https://github.com/eth-cscs/SummerSchool2021)
