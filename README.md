@@ -1,4 +1,5 @@
-# GitHub README Connect4
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+GitHub README Connect4
 
 Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->red<!-- END TURN --> piece.
 
@@ -77,7 +78,6 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="jakob--jung"><a class="LI-simple-link" href='https://de.linkedin.com/in/jakob--jung?trk=profile-badge'>Jakob Jung</a></div>
-
 
 
 ## Stop stalking, start talking!
