@@ -198,6 +198,8 @@ if __name__ == '__main__':
         if ret == False:
             sys.exit(reason)
     except:
+        with open('data/settings.yaml', 'r') as settings_file:
+            settings = yaml.load(settings_file, Loader=yaml.FullLoader)
         os.rename("./README.md", "./OldReadMe/FAULTYREADME.md")
         os.rename("./OldReadMe/FALLBACKREADME.md", "./README.md")
         if not os.path.exists("./.github/_workflows"):
