@@ -100,6 +100,6 @@ Last Updated: Thursday, July 22nd, 2021, 6:46:27 AM
 
 ## If you're still here. Here's my favorite gif:
 
-<a href="https://github.com/bloedboemmel">
+<a href="https://www.youtube.com/watch?v=Hrph2EW9VjY">
   <img alt="Bla Bla Bla by Gigi D'Agostino" src="img/BlaBlaBla.gif" height="150px"/>
 </a>
