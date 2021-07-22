@@ -192,6 +192,7 @@ if __name__ == '__main__':
     issue_author = '@' + issue.user.login
     repo_owner = '@' + os.environ['REPOSITORY_OWNER']
     try:
+        a = a #trying worst_case
         ret, reason = main(issue, issue_author, repo_owner)
 
         if ret == False:
