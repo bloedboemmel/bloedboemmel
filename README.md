@@ -98,7 +98,7 @@ Last Updated: Thursday, July 22nd, 2021, 6:46:27 AM
 <!--ENDS_HERE_QUOTE_README-->
 
 
-## If you're still here. Here's my favorite gif:
+## If you're still here. Here's my favorite gif/music video:
 
 <a href="https://www.youtube.com/watch?v=Hrph2EW9VjY">
   <img alt="Bla Bla Bla by Gigi D'Agostino" src="img/BlaBlaBla.gif" height="150px"/>
