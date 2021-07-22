@@ -70,9 +70,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=bloedboemmel&show_icons=true&theme=radical" height="200"/>
   
 </a>
+
 <a href="https://github.com/bloedboemmel">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=bloedboemmel&theme=radical"  height="200"/>
 </a>
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="jakob--jung"><a class="LI-simple-link" href='https://de.linkedin.com/in/jakob--jung?trk=profile-badge'>Jakob Jung</a></div>
+
+
 
 ## Stop stalking, start talking!
 ### Recent activity
