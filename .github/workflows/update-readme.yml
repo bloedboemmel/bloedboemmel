@@ -2,7 +2,7 @@ name: Update Recent Activity in Readme
 
 on:
   schedule:
-    - cron: '01 01 * * *' # Update every 30 minutes
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
