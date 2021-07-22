@@ -96,3 +96,10 @@ Last Updated: Thursday, July 22nd, 2021, 6:46:27 AM
 ... <!--STARTS_HERE_QUOTE_README-->
 <i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+
+
+## If you're still here. Here's my favorite gif:
+
+<a href="https://github.com/bloedboemmel">
+  <img alt="Bla Bla Bla by Gigi D'Agostino" src="img/BlaBlaBla.gif" height="150px"/>
+</a>
