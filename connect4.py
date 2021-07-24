@@ -48,7 +48,7 @@ class connect4:
     def iswonornot(self):
         for row in range(len(self.grid)):
             for col in range(len(self.grid[0])):
-                if self.grid[row][col] is not 0:
+                if self.grid[row][col] != 0:
                     color = self.grid[row][col]
                     if self.recur_checker(self.grid, SOUTH, row + 1, col, color, 3) or \
                             self.recur_checker(self.grid, EAST, row, col + 1, color, 3) or \
