@@ -9,9 +9,9 @@ Here you can play Connect4. It's your turn to play! Just click under the grid, w
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|   | [1](https://github.com/bloedboemmel/readme-connect4/issues/new?title=Connect4%3A+Put+1&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [2](https://github.com/bloedboemmel/readme-connect4/issues/new?title=Connect4%3A+Put+2&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [3](https://github.com/bloedboemmel/readme-connect4/issues/new?title=Connect4%3A+Put+3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [4](https://github.com/bloedboemmel/readme-connect4/issues/new?title=Connect4%3A+Put+4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [6](https://github.com/bloedboemmel/readme-connect4/issues/new?title=Connect4%3A+Put+6&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [7](https://github.com/bloedboemmel/readme-connect4/issues/new?title=Connect4%3A+Put+7&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |   |
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | |---|
+|   | [1](https://github.com/bloedboemmel/bloedboemmel/issues/new?title=Connect4%3A+Put+1&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [2](https://github.com/bloedboemmel/bloedboemmel/issues/new?title=Connect4%3A+Put+2&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [3](https://github.com/bloedboemmel/bloedboemmel/issues/new?title=Connect4%3A+Put+3&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [4](https://github.com/bloedboemmel/bloedboemmel/issues/new?title=Connect4%3A+Put+4&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) ||   | [6](https://github.com/bloedboemmel/bloedboemmel/issues/new?title=Connect4%3A+Put+6&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) | [7](https://github.com/bloedboemmel/bloedboemmel/issues/new?title=Connect4%3A+Put+7&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) |   |
 <!-- END CONNECT4 BOARD -->
 <!-- BEGIN MOVES LIST -->
 <!-- END MOVES LIST -->
@@ -33,11 +33,8 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 | Move | Author |
 | :--: | :----- |
-| `5` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
-| `5` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
-| `5` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
-| `5` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
-| `5` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
+| `7` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
+| `Start game` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
 
 <!-- END LAST MOVES -->
 </details>
@@ -48,7 +45,7 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 | Total moves |  User  |
 | :---------: | :----- |
-| 20 |  [@bloedboemmel](https://github.com/bloedboemmel) | |
+| 22 |  [@bloedboemmel](https://github.com/bloedboemmel) | |
 
 <!-- END TOP MOVES -->
 </details>
