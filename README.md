@@ -18,15 +18,15 @@
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bloedboemmel/SummerSchool2021](https://github.com/bloedboemmel/SummerSchool2021) from [eth-cscs/SummerSchool2021](https://github.com/eth-cscs/SummerSchool2021)
-2. ⭐ Starred [eth-cscs/SummerSchool2021](https://github.com/eth-cscs/SummerSchool2021)
-3. 📔 Created new repository [bloedboemmel/readme-connect4](https://github.com/bloedboemmel/readme-connect4)
-4. ⭐ Starred [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
-5. ⭐ Starred [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
+1. ⭐ Starred [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+2. 🔱 Forked [bloedboemmel/kokkos-tutorials](https://github.com/bloedboemmel/kokkos-tutorials) from [kokkos/kokkos-tutorials](https://github.com/kokkos/kokkos-tutorials)
+3. 🔱 Forked [bloedboemmel/kokkos](https://github.com/bloedboemmel/kokkos) from [kokkos/kokkos](https://github.com/kokkos/kokkos)
+4. ⭐ Starred [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
+5. 💪 Opened PR [#300](https://github.com/coderjojo/creative-profile-readme/pull/300) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 22nd, 2021, 9:45:19 AM
+Last Updated: Saturday, July 24th, 2021, 9:05:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
