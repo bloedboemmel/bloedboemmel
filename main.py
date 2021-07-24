@@ -165,7 +165,7 @@ def main(issue, issue_author, repo_owner):
         issue.edit(state='closed', labels=['Invalid'])
         return False, f'ERROR: "{action[1]}" Unknown action'
 
-    with open('BACKREADME.md', 'r') as file:
+    with open('OldReadMe/FALLBACKREADME.md', 'r') as file:
         readme = file.read()
         readme = replace_text_between(readme, settings['markers']['board'], '{chess_board}')
         readme = replace_text_between(readme, settings['markers']['moves'], '{moves_list}')
@@ -174,7 +174,7 @@ def main(issue, issue_author, repo_owner):
         readme = replace_text_between(readme, settings['markers']['top_moves'], '{top_moves}')
 
     last_moves = ''
-    with open('README.md', 'w') as file:
+    with open('OldReadMe/FALLBACKREADME.md', 'w') as file:
         # Write new board & list of movements
         file.write(readme.format(
             chess_board=markdown.board_to_markdown(Conn),
@@ -201,8 +201,8 @@ if __name__ == '__main__':
         traceback.print_exc()
         with open('data/settings.yaml', 'r') as settings_file:
             settings = yaml.load(settings_file, Loader=yaml.FullLoader)
-        os.rename("README.md", "FAULTYREADME.md")
-        os.rename("OldReadMe/FALLBACKREADME.md", "README.md")
+        os.rename("OldReadMe/FALLBACKREADME.md", "OldReadMe/FAULTYREADME.md")
+        os.rename("OldReadMe/FALLBACKREADME.md", "OldReadMe/FALLBACKREADME.md")
 
 
         if not os.path.exists("./.github/_workflows"):
