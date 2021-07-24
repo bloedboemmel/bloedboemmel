@@ -203,6 +203,6 @@ if __name__ == '__main__':
         os.rename("./OldReadMe/FALLBACKREADME.md", "OldReadMe/FALLBACKREADME.md")
         if not os.path.exists("./.github/_workflows"):
             os.makedirs("./.github/_workflows")
-        os.rename("./.github/workflows/Connect4.yml", "./.github/_workflows/Connect4.yml")
+        os.rename("./.github/workflows/Connect4.yml", ".github/workflows/Connect4.yml")
         issue.create_comment(settings['comments']['big_error'].format(author=issue_author, repo_owner=repo_owner))
         issue.edit(labels=['bug'])
