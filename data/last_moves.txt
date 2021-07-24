@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-5: @bloedboemmel
-7: @bloedboemmel
-7: @bloedboemmel
-7: @bloedboemmel
-6: @bloedboemmel
-6: @bloedboemmel
-6: @bloedboemmel
-5: @bloedboemmel
-7: @bloedboemmel
-6: @bloedboemmel
-3: @bloedboemmel
-5: @bloedboemmel
-3: @bloedboemmel
-4: @bloedboemmel
-=======
 3: @bloedboemmel
 3: @bloedboemmel
 4: @bloedboemmel
->>>>>>> b335d7d6cc76ff7016f472ef9aa8c2b2eb476ca0
 Start game: @bloedboemmel
