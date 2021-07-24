@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GitHub README Connect4
 
 Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->red<!-- END TURN --> piece.
@@ -105,7 +104,6 @@ Last Updated: Saturday, July 24th, 2021, 6:06:40 AM
 <a href="https://www.youtube.com/watch?v=Hrph2EW9VjY">
   <img alt="Bla Bla Bla by Gigi D'Agostino" src="img/BlaBlaBla.gif" height="150px"/>
 </a>
-=======
 # Hey Bloedboemmel, what else do you do? 
 ## Spotify-Status 🎧
 <p float="left" >
@@ -149,4 +147,4 @@ Last Updated: Saturday, July 24th, 2021, 9:05:48 AM
 <a href="https://www.youtube.com/watch?v=Hrph2EW9VjY">
   <img alt="Bla Bla Bla by Gigi D'Agostino" src="../img/BlaBlaBla.gif" height="150px"/>
 </a>
->>>>>>> b4a11969acaf99e9d046c157dd9101b52d08d93f
+
