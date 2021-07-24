@@ -201,8 +201,8 @@ if __name__ == '__main__':
         traceback.print_exc()
         with open('data/settings.yaml', 'r') as settings_file:
             settings = yaml.load(settings_file, Loader=yaml.FullLoader)
-        os.rename("./README.md", "OldReadMe/FAULTYREADME.md")
         os.rename("OldReadMe/FALLBACKREADME.md", "README.md")
+        os.copy("OldReadMe/FALLBACKREADME.md", "FALLBACKREADME.md")
 
         if not os.path.exists("./.github/_workflows"):
             os.makedirs("./.github/_workflows")
