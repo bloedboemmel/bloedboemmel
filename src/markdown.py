@@ -122,7 +122,7 @@ def board_to_markdown(board):
         if (i+1) in moves:
             markdown += create_issue_link(i+1)
         else:
-            markdown += "|   |"
+            markdown += f" {i+1} |"
     markdown += "   |\n"
 
     return markdown
