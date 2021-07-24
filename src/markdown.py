@@ -15,7 +15,7 @@ def create_link(text, link):
 
 
 def create_issue_link(source):
-    ret = "https://github.com/bloedboemmel/readme-connect4/issues/new?title=Connect4%3A+Put+"
+    ret = "https://github.com/bloedboemmel/bloedboemmel/issues/new?title=Connect4%3A+Put+"
 
     ret += str(source) + "&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD"
     return create_link(source, ret)
