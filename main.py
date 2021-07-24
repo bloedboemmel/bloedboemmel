@@ -199,8 +199,9 @@ if __name__ == '__main__':
     except:
         with open('data/settings.yaml', 'r') as settings_file:
             settings = yaml.load(settings_file, Loader=yaml.FullLoader)
+        os.rename("./README.md", "OldReadMe/FAULTYREADME.md")
         os.rename("OldReadMe/FALLBACKREADME.md", "README.md")
-        os.rename("./OldReadMe/FALLBACKREADME.md", "OldReadMe/FALLBACKREADME.md")
+
         if not os.path.exists("./.github/_workflows"):
             os.makedirs("./.github/_workflows")
         os.rename("./.github/workflows/Connect4.yml", ".github/workflows/Connect4.yml")
