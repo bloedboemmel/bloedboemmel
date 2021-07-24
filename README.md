@@ -79,15 +79,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
-2. 🔱 Forked [bloedboemmel/kokkos-tutorials](https://github.com/bloedboemmel/kokkos-tutorials) from [kokkos/kokkos-tutorials](https://github.com/kokkos/kokkos-tutorials)
-3. 🔱 Forked [bloedboemmel/kokkos](https://github.com/bloedboemmel/kokkos) from [kokkos/kokkos](https://github.com/kokkos/kokkos)
-4. ⭐ Starred [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
-5. 💪 Opened PR [#300](https://github.com/coderjojo/creative-profile-readme/pull/300) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+1. 💬 Commented on [#5](https://github.com/bloedboemmel/bloedboemmel/issues/5#issuecomment-886035967) in [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel)
+2. ⭐ Starred [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+3. 🔱 Forked [bloedboemmel/kokkos-tutorials](https://github.com/bloedboemmel/kokkos-tutorials) from [kokkos/kokkos-tutorials](https://github.com/kokkos/kokkos-tutorials)
+4. 🔱 Forked [bloedboemmel/kokkos](https://github.com/bloedboemmel/kokkos) from [kokkos/kokkos](https://github.com/kokkos/kokkos)
+5. ⭐ Starred [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 24th, 2021, 6:06:40 AM
+Last Updated: Saturday, July 24th, 2021, 12:08:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
