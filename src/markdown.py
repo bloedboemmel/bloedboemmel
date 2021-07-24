@@ -118,8 +118,11 @@ def board_to_markdown(board):
     # Write footer in Markdown format
     moves = board.valid_moves()
     markdown += "|   |"
-    for move in moves:
-        markdown += create_issue_link(move)
+    for i in range(7):
+        if (i+1) in moves:
+            markdown += create_issue_link(move)
+        else:
+            markdown += "|   |"
     markdown += "   |\n"
 
     return markdown
