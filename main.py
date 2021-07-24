@@ -3,6 +3,7 @@ import os
 import os.path
 import sys
 import ast
+import traceback
 from enum import Enum
 from datetime import datetime
 from connect4 import connect4
@@ -197,6 +198,7 @@ if __name__ == '__main__':
         if ret == False:
             sys.exit(reason)
     except:
+        traceback.print_exc()
         with open('data/settings.yaml', 'r') as settings_file:
             settings = yaml.load(settings_file, Loader=yaml.FullLoader)
         os.rename("./README.md", "OldReadMe/FAULTYREADME.md")
