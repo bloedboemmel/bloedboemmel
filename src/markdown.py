@@ -20,8 +20,8 @@ def create_issue_link(source):
         params=urlencode(settings['issues']['move'], safe="{}"))
 
     
-    ret = create_link(dest, issue_link.format(source=source))
-    return create_link(source, ret)
+    return create_link(source, issue_link.format(source=source))
+    
 
 
 def generate_top_moves():
