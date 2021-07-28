@@ -15,9 +15,12 @@ def create_link(text, link):
 
 
 def create_issue_link(source):
-    ret = "https://github.com/bloedboemmel/bloedboemmel/issues/new?title=Connect4%3A+Put+"
+    issue_link = settings['issues']['link'].format(
+        repo=os.environ["GITHUB_REPOSITORY"],
+        params=urlencode(settings['issues']['move'], safe="{}"))
 
-    ret += str(source) + "&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD"
+    
+    ret = create_link(dest, issue_link.format(source=source)))
     return create_link(source, ret)
 
 
