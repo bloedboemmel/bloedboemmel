@@ -82,15 +82,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-2. ❌ Closed PR [#1](https://github.com/DARK-art108/bloedboemmel/pull/1) in [DARK-art108/bloedboemmel](https://github.com/DARK-art108/bloedboemmel)
-3. ❌ Closed PR [#2](https://github.com/DARK-art108/bloedboemmel/pull/2) in [DARK-art108/bloedboemmel](https://github.com/DARK-art108/bloedboemmel)
-4. ❌ Closed PR [#3](https://github.com/DARK-art108/bloedboemmel/pull/3) in [DARK-art108/bloedboemmel](https://github.com/DARK-art108/bloedboemmel)
-5. 💪 Opened PR [#3](https://github.com/DARK-art108/bloedboemmel/pull/3) in [DARK-art108/bloedboemmel](https://github.com/DARK-art108/bloedboemmel)
+1. 🎉 Merged PR [#1](https://github.com/bloedboemmel/Steinbock/pull/1) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+2. 💪 Opened PR [#1](https://github.com/bloedboemmel/Steinbock/pull/1) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+3. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+4. ❌ Closed PR [#1](https://github.com/DARK-art108/bloedboemmel/pull/1) in [DARK-art108/bloedboemmel](https://github.com/DARK-art108/bloedboemmel)
+5. ❌ Closed PR [#2](https://github.com/DARK-art108/bloedboemmel/pull/2) in [DARK-art108/bloedboemmel](https://github.com/DARK-art108/bloedboemmel)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 29th, 2021, 6:07:18 AM
+Last Updated: Thursday, July 29th, 2021, 9:05:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
