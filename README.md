@@ -1,13 +1,13 @@
 # GitHub README Connect4
 
-Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->red<!-- END TURN --> piece.
+Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->yellow<!-- END TURN --> piece.
 
 <!-- BEGIN CONNECT4 BOARD -->
 |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
@@ -33,11 +33,11 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 | Move | Author |
 | :--: | :----- |
+| `4` |  [ @antjacquemin](https://github.com/antjacquemin) | |
 | `3` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
 | `4` |  [ @antjacquemin](https://github.com/antjacquemin) | |
 | `4` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
 | `3` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
-| `4` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
 
 <!-- END LAST MOVES -->
 </details>
@@ -49,7 +49,7 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 | Total moves |  User  |
 | :---------: | :----- |
 | 5 |  [@bloedboemmel](https://github.com/bloedboemmel) | |
-| 1 |  [@antjacquemin](https://github.com/antjacquemin) | |
+| 2 |  [@antjacquemin](https://github.com/antjacquemin) | |
 
 <!-- END TOP MOVES -->
 </details>
