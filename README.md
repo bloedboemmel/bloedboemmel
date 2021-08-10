@@ -82,15 +82,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Automatic plotting bot](https://github.com/bloedboemmel/Steinbock/releases/tag/v1.0) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-2. 🎉 Merged PR [#1](https://github.com/bloedboemmel/Steinbock/pull/1) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-3. 💪 Opened PR [#1](https://github.com/bloedboemmel/Steinbock/pull/1) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-4. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-5. ❌ Closed PR [#1](https://github.com/DARK-art108/bloedboemmel/pull/1) in [DARK-art108/bloedboemmel](https://github.com/DARK-art108/bloedboemmel)
+1. ✌️ Released [First complete README with Connect4](https://github.com/bloedboemmel/bloedboemmel/releases/tag/v1.0) in [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel)
+2. ✌️ Released [Automatic plotting bot](https://github.com/bloedboemmel/Steinbock/releases/tag/v1.0) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+3. 🎉 Merged PR [#1](https://github.com/bloedboemmel/Steinbock/pull/1) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+4. 💪 Opened PR [#1](https://github.com/bloedboemmel/Steinbock/pull/1) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+5. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 10th, 2021, 8:10:09 AM
+Last Updated: Tuesday, August 10th, 2021, 9:06:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
