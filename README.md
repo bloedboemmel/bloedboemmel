@@ -97,7 +97,7 @@ Last Updated: Wednesday, August 25th, 2021, 12:22:17 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+<i>❝The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
