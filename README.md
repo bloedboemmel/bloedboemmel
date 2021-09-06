@@ -1,5 +1,4 @@
-# GitHub README Connect4
-![](https://komarev.com/ghpvc/?username=bloedboemmel&color=green&label=Visitors)
+# GitHub README Connect4  ![](https://komarev.com/ghpvc/?username=bloedboemmel&color=green&label=Visitors)
 
 Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->red<!-- END TURN --> piece.
 
