@@ -84,15 +84,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bloedboemmel/1001Tracklists2Spotify](https://github.com/bloedboemmel/1001Tracklists2Spotify)
-2. 💬 Commented on [#7](https://github.com/leandertolksdorf/1001-tracklists-api/issues/7#issuecomment-921910237) in [leandertolksdorf/1001-tracklists-api](https://github.com/leandertolksdorf/1001-tracklists-api)
-3. 💪 Opened PR [#8](https://github.com/leandertolksdorf/1001-tracklists-api/pull/8) in [leandertolksdorf/1001-tracklists-api](https://github.com/leandertolksdorf/1001-tracklists-api)
-4. 🔱 Forked [bloedboemmel/1001-tracklists-api](https://github.com/bloedboemmel/1001-tracklists-api) from [leandertolksdorf/1001-tracklists-api](https://github.com/leandertolksdorf/1001-tracklists-api)
-5. ⭐ Starred [leandertolksdorf/1001-tracklists-api](https://github.com/leandertolksdorf/1001-tracklists-api)
+1. ✌️ Released [Working algorithm ](https://github.com/bloedboemmel/1001Tracklists2Spotify/releases/tag/v1.0) in [bloedboemmel/1001Tracklists2Spotify](https://github.com/bloedboemmel/1001Tracklists2Spotify)
+2. 📔 Created new repository [bloedboemmel/1001Tracklists2Spotify](https://github.com/bloedboemmel/1001Tracklists2Spotify)
+3. 💬 Commented on [#7](https://github.com/leandertolksdorf/1001-tracklists-api/issues/7#issuecomment-921910237) in [leandertolksdorf/1001-tracklists-api](https://github.com/leandertolksdorf/1001-tracklists-api)
+4. 💪 Opened PR [#8](https://github.com/leandertolksdorf/1001-tracklists-api/pull/8) in [leandertolksdorf/1001-tracklists-api](https://github.com/leandertolksdorf/1001-tracklists-api)
+5. 🔱 Forked [bloedboemmel/1001-tracklists-api](https://github.com/bloedboemmel/1001-tracklists-api) from [leandertolksdorf/1001-tracklists-api](https://github.com/leandertolksdorf/1001-tracklists-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 17th, 2021, 6:07:12 PM
+Last Updated: Friday, September 17th, 2021, 9:05:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
