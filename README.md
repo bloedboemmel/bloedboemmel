@@ -84,15 +84,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)
-2. ⭐ Starred [KDE/kolf](https://github.com/KDE/kolf)
-3. ⭐ Starred [jorisschellekens/borb](https://github.com/jorisschellekens/borb)
-4. ✌️ Released [Working algorithm ](https://github.com/bloedboemmel/1001Tracklists2Spotify/releases/tag/v1.0) in [bloedboemmel/1001Tracklists2Spotify](https://github.com/bloedboemmel/1001Tracklists2Spotify)
-5. 📔 Created new repository [bloedboemmel/1001Tracklists2Spotify](https://github.com/bloedboemmel/1001Tracklists2Spotify)
+1. 🔱 Forked [bloedboemmel/MagInkCal](https://github.com/bloedboemmel/MagInkCal) from [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)
+2. ⭐ Starred [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)
+3. ⭐ Starred [KDE/kolf](https://github.com/KDE/kolf)
+4. ⭐ Starred [jorisschellekens/borb](https://github.com/jorisschellekens/borb)
+5. ✌️ Released [Working algorithm ](https://github.com/bloedboemmel/1001Tracklists2Spotify/releases/tag/v1.0) in [bloedboemmel/1001Tracklists2Spotify](https://github.com/bloedboemmel/1001Tracklists2Spotify)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 27th, 2021, 12:10:00 PM
+Last Updated: Monday, September 27th, 2021, 3:06:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
