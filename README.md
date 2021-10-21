@@ -100,7 +100,7 @@ Last Updated: Thursday, October 21st, 2021, 12:26:42 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
+<i>❝The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
