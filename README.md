@@ -89,15 +89,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cody82/sigfood](https://github.com/cody82/sigfood)
-2. 💪 Opened PR [#88](https://github.com/TheAlgorithms/MATLAB-Octave/pull/88) in [TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
-3. 🔱 Forked [bloedboemmel/MATLAB-Octave](https://github.com/bloedboemmel/MATLAB-Octave) from [TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
-4. ⭐ Starred [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-5. 🔱 Forked [bloedboemmel/MagInkCal](https://github.com/bloedboemmel/MagInkCal) from [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)
+1. 🔱 Forked [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot) from [AlexVerrico/Discord-Counting-Bot](https://github.com/AlexVerrico/Discord-Counting-Bot)
+2. ⭐ Starred [cody82/sigfood](https://github.com/cody82/sigfood)
+3. 💪 Opened PR [#88](https://github.com/TheAlgorithms/MATLAB-Octave/pull/88) in [TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
+4. 🔱 Forked [bloedboemmel/MATLAB-Octave](https://github.com/bloedboemmel/MATLAB-Octave) from [TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
+5. ⭐ Starred [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 8th, 2021, 9:06:14 PM
+Last Updated: Tuesday, November 9th, 2021, 12:23:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
