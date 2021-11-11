@@ -90,14 +90,14 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ✌️ Released [Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. ⭐ Starred [RainerWein/menser](https://github.com/RainerWein/menser)
-4. 🔱 Forked [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot) from [AlexVerrico/Discord-Counting-Bot](https://github.com/AlexVerrico/Discord-Counting-Bot)
-5. ⭐ Starred [cody82/sigfood](https://github.com/cody82/sigfood)
+2. ✌️ Released [Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+4. ⭐ Starred [RainerWein/menser](https://github.com/RainerWein/menser)
+5. 🔱 Forked [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot) from [AlexVerrico/Discord-Counting-Bot](https://github.com/AlexVerrico/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 11th, 2021, 3:07:10 PM
+Last Updated: Thursday, November 11th, 2021, 6:07:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
