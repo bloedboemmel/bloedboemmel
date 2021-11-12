@@ -89,15 +89,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. ✌️ Released [Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-4. ⭐ Starred [RainerWein/menser](https://github.com/RainerWein/menser)
-5. 🔱 Forked [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot) from [AlexVerrico/Discord-Counting-Bot](https://github.com/AlexVerrico/Discord-Counting-Bot)
+1. 🎉 Merged PR [#3](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/3) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+2. 👍 Approved [#3](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/3#pullrequestreview-804630578) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. ✌️ Released [Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+4. ✌️ Released [Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+5. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 12th, 2021, 9:06:55 AM
+Last Updated: Friday, November 12th, 2021, 12:10:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
