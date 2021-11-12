@@ -89,15 +89,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/3) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. 👍 Approved [#3](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/3#pullrequestreview-804630578) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. ✌️ Released [Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-4. ✌️ Released [Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-5. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+1. 🎉 Merged PR [#12](https://github.com/bloedboemmel/Steinbock/pull/12) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+2. 🎉 Merged PR [#13](https://github.com/bloedboemmel/Steinbock/pull/13) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+3. 🎉 Merged PR [#14](https://github.com/bloedboemmel/Steinbock/pull/14) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+4. 🎉 Merged PR [#15](https://github.com/bloedboemmel/Steinbock/pull/15) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+5. 🎉 Merged PR [#16](https://github.com/bloedboemmel/Steinbock/pull/16) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 12th, 2021, 12:10:23 PM
+Last Updated: Friday, November 12th, 2021, 3:07:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
