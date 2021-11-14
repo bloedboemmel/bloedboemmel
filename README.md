@@ -89,15 +89,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/5) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. 🤝 Became collaborator on [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. 🤝 Became collaborator on [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-4. ⭐ Starred [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ✌️ Released [v2 Counting Bot with a Beer Problem](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/2.1.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+1. 🎉 Merged PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+2. 💪 Opened PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. 🎉 Merged PR [#5](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/5) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+4. 🤝 Became collaborator on [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+5. 🤝 Became collaborator on [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 14th, 2021, 12:09:52 PM
+Last Updated: Sunday, November 14th, 2021, 3:06:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
