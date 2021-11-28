@@ -90,15 +90,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. 🎉 Merged PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. 💪 Opened PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-4. 🎉 Merged PR [#5](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/5) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-5. 🤝 Became collaborator on [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+1. ⭐ Starred [mad-lab-fau/fau_colors](https://github.com/mad-lab-fau/fau_colors)
+2. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. 🎉 Merged PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+4. 💪 Opened PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+5. 🎉 Merged PR [#5](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/5) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 27th, 2021, 6:07:25 PM
+Last Updated: Sunday, November 28th, 2021, 2:08:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
