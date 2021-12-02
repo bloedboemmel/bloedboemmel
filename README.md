@@ -90,15 +90,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mad-lab-fau/fau_colors](https://github.com/mad-lab-fau/fau_colors)
-2. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. 🎉 Merged PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-4. 💪 Opened PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-5. 🎉 Merged PR [#5](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/5) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+1. 🎉 Merged PR [#17](https://github.com/bloedboemmel/Steinbock/pull/17) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+2. 🎉 Merged PR [#18](https://github.com/bloedboemmel/Steinbock/pull/18) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+3. ⭐ Starred [mad-lab-fau/fau_colors](https://github.com/mad-lab-fau/fau_colors)
+4. ⭐ Starred [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+5. 🎉 Merged PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 2nd, 2021, 6:08:15 AM
+Last Updated: Thursday, December 2nd, 2021, 9:07:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
