@@ -90,15 +90,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Counting Bot is a Profi Beeraholic](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/3.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-3. 🎉 Merged PR [#17](https://github.com/bloedboemmel/Steinbock/pull/17) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-4. 🎉 Merged PR [#18](https://github.com/bloedboemmel/Steinbock/pull/18) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-5. ⭐ Starred [mad-lab-fau/fau_colors](https://github.com/mad-lab-fau/fau_colors)
+1. ⭐ Starred [RainerWein/menserbot](https://github.com/RainerWein/menserbot)
+2. ✌️ Released [Counting Bot is a Profi Beeraholic](https://github.com/bloedboemmel/Discord-Counting-Bot/releases/tag/3.0.0) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+4. 🎉 Merged PR [#17](https://github.com/bloedboemmel/Steinbock/pull/17) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+5. 🎉 Merged PR [#18](https://github.com/bloedboemmel/Steinbock/pull/18) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 13th, 2021, 6:08:12 PM
+Last Updated: Monday, December 13th, 2021, 9:06:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
