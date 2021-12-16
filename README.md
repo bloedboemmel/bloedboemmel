@@ -1,12 +1,12 @@
 # GitHub README Connect4  ![](https://komarev.com/ghpvc/?username=bloedboemmel&color=green&label=Visitors)
 
-Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->red<!-- END TURN --> piece.
+Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->yellow<!-- END TURN --> piece.
 
 <!-- BEGIN CONNECT4 BOARD -->
 |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/yellow.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | |---|
@@ -33,11 +33,11 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 | Move | Author |
 | :--: | :----- |
+| `5` |  [ @Jojodicus](https://github.com/Jojodicus) | |
 | `2` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
 | `3` |  [ @JaouherK](https://github.com/JaouherK) | |
 | `3` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
 | `1` |  [ @JacksonTsai](https://github.com/JacksonTsai) | |
-| `3` |  [ @bloedboemmel](https://github.com/bloedboemmel) | |
 
 <!-- END LAST MOVES -->
 </details>
