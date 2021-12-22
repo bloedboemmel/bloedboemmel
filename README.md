@@ -89,15 +89,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/2) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. 🎉 Merged PR [#1](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/1) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. 📔 Created new repository [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-4. 💬 Commented on [#1](https://github.com/RainerWein/menserbot/issues/1#issuecomment-993409015) in [RainerWein/menserbot](https://github.com/RainerWein/menserbot)
-5. 💪 Opened PR [#2](https://github.com/RainerWein/menserbot/pull/2) in [RainerWein/menserbot](https://github.com/RainerWein/menserbot)
+1. 🎉 Merged PR [#4](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/4) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+2. 🎉 Merged PR [#2](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/2) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. 🎉 Merged PR [#1](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/1) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+4. 📔 Created new repository [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+5. 💬 Commented on [#1](https://github.com/RainerWein/menserbot/issues/1#issuecomment-993409015) in [RainerWein/menserbot](https://github.com/RainerWein/menserbot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 22nd, 2021, 3:07:29 PM
+Last Updated: Wednesday, December 22nd, 2021, 6:08:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
