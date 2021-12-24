@@ -89,15 +89,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7](https://github.com/bloedboemmel/Discord-Counting-Bot/issues/7#issuecomment-1000537420) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. 🎉 Merged PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. 💬 Commented on [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6#issuecomment-999799098) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-4. 🎉 Merged PR [#4](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/4) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-5. 🎉 Merged PR [#2](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/2) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+1. 💬 Commented on [#8](https://github.com/bloedboemmel/Discord-Counting-Bot/issues/8#issuecomment-1000783264) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+2. 💬 Commented on [#7](https://github.com/bloedboemmel/Discord-Counting-Bot/issues/7#issuecomment-1000537420) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. 🎉 Merged PR [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+4. 💬 Commented on [#6](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/6#issuecomment-999799098) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+5. 🎉 Merged PR [#4](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/4) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 24th, 2021, 9:07:29 AM
+Last Updated: Friday, December 24th, 2021, 12:11:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
