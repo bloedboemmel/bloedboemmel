@@ -89,15 +89,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#13](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/13) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. ⭐ Starred [facebookarchive/python-instagram](https://github.com/facebookarchive/python-instagram)
-3. 💬 Commented on [#8](https://github.com/bloedboemmel/Discord-Counting-Bot/issues/8#issuecomment-1001075302) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-4. 💬 Commented on [#10](https://github.com/bloedboemmel/Discord-Counting-Bot/issues/10#issuecomment-1001075283) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-5. 💬 Commented on [#10](https://github.com/bloedboemmel/Discord-Counting-Bot/issues/10#issuecomment-1001072802) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+1. 📔 Created new repository [bloedboemmel/themefau](https://github.com/bloedboemmel/themefau)
+2. 🎉 Merged PR [#13](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/13) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. ⭐ Starred [facebookarchive/python-instagram](https://github.com/facebookarchive/python-instagram)
+4. 💬 Commented on [#8](https://github.com/bloedboemmel/Discord-Counting-Bot/issues/8#issuecomment-1001075302) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+5. 💬 Commented on [#10](https://github.com/bloedboemmel/Discord-Counting-Bot/issues/10#issuecomment-1001075283) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 3rd, 2022, 12:11:36 PM
+Last Updated: Monday, January 3rd, 2022, 3:07:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
