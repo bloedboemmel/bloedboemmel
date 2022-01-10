@@ -90,15 +90,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-2. 🎉 Merged PR [#19](https://github.com/bloedboemmel/Steinbock/pull/19) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-3. 🎉 Merged PR [#21](https://github.com/bloedboemmel/Steinbock/pull/21) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-4. 💬 Commented on [#1510](https://github.com/YTVanced/Vanced/issues/1510#issuecomment-1004285827) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-5. 📔 Created new repository [bloedboemmel/themefau](https://github.com/bloedboemmel/themefau)
+1. ❌ Closed PR [#14](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/14) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+2. 💬 Commented on [#14](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/14#issuecomment-1009433822) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+4. 🎉 Merged PR [#19](https://github.com/bloedboemmel/Steinbock/pull/19) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+5. 🎉 Merged PR [#21](https://github.com/bloedboemmel/Steinbock/pull/21) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 10th, 2022, 9:06:50 PM
+Last Updated: Monday, January 10th, 2022, 11:08:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
