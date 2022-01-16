@@ -90,15 +90,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#14](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/14) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-2. 💬 Commented on [#14](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/14#issuecomment-1009433822) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-3. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-4. 🎉 Merged PR [#19](https://github.com/bloedboemmel/Steinbock/pull/19) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
-5. 🎉 Merged PR [#21](https://github.com/bloedboemmel/Steinbock/pull/21) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+1. 🎉 Merged PR [#16](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/16) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+2. ❌ Closed PR [#14](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/14) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+3. 💬 Commented on [#14](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/14#issuecomment-1009433822) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+4. ⭐ Starred [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
+5. 🎉 Merged PR [#19](https://github.com/bloedboemmel/Steinbock/pull/19) in [bloedboemmel/Steinbock](https://github.com/bloedboemmel/Steinbock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 16th, 2022, 12:11:03 PM
+Last Updated: Sunday, January 16th, 2022, 3:07:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
