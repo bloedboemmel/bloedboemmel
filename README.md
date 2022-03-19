@@ -71,6 +71,7 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 
 
 # Hey Bloedboemmel, what else do you do? 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jakob--jung/)
 ## Spotify-Status 🎧
 <p float="left" >
   <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
