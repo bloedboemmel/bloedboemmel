@@ -105,7 +105,7 @@ Last Updated: Monday, April 11th, 2022, 12:37:25 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.❞</i>
+<i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
