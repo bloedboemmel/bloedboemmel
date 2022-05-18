@@ -105,7 +105,7 @@ Last Updated: Wednesday, May 18th, 2022, 12:36:02 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
+<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
