@@ -99,7 +99,7 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 3rd, 2022, 12:35:56 AM
+Last Updated: Friday, June 3rd, 2022, 3:37:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
