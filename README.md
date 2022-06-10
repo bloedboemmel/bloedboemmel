@@ -105,7 +105,7 @@ Last Updated: Friday, June 10th, 2022, 12:45:01 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
+<i>❝American mathematician Marion Tinsley played checkers for 45 years and lost only 7 games. He once beat a computer program, and later analysis showed that Tinsley had played the only possible winning strategy from 64 moves out.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
