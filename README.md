@@ -105,7 +105,7 @@ Last Updated: Friday, June 17th, 2022, 12:38:55 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
+<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
