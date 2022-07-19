@@ -103,7 +103,7 @@ Last Updated: Tuesday, July 19th, 2022, 12:53:03 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
+<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
