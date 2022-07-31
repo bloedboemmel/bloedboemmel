@@ -103,7 +103,7 @@ Last Updated: Sunday, July 31st, 2022, 12:45:50 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.❞</i>
+<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
