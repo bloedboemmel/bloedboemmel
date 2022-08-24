@@ -1,8 +1,1 @@
-7: @tonioluna
-2: @alunamun
-6: @LuisFelipeFrancisco
-3: @Trunkios
-5: @Trunkios
-4: @BolaGhaly
-4: @bloedboemmel
-Start game: @bloedboemmel
+Start game: @tonioluna
