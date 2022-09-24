@@ -90,15 +90,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-research/multinerf](https://github.com/google-research/multinerf)
-2. 💬 Commented on [#9](https://github.com/leandertolksdorf/1001-tracklists-api/issues/9#issuecomment-1083505289) in [leandertolksdorf/1001-tracklists-api](https://github.com/leandertolksdorf/1001-tracklists-api)
+1. ⭐ Starred [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
+2. ⭐ Starred [google-research/multinerf](https://github.com/google-research/multinerf)
 3. 🎉 Merged PR [#17](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/17) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 4. 🎉 Merged PR [#16](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/16) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 5. ❌ Closed PR [#14](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/14) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 24th, 2022, 6:12:20 PM
+Last Updated: Saturday, September 24th, 2022, 9:08:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
