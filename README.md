@@ -90,15 +90,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bloedboemmel/spotify_to_tidal](https://github.com/bloedboemmel/spotify_to_tidal) from [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
-2. ⭐ Starred [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
-3. ⭐ Starred [google-research/multinerf](https://github.com/google-research/multinerf)
-4. 🎉 Merged PR [#16](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/16) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
+1. 💪 Opened PR [#12](https://github.com/timrae/spotify_to_tidal/pull/12) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
+2. 🔱 Forked [bloedboemmel/spotify_to_tidal](https://github.com/bloedboemmel/spotify_to_tidal) from [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
+3. ⭐ Starred [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
+4. ⭐ Starred [google-research/multinerf](https://github.com/google-research/multinerf)
 5. ❌ Closed PR [#14](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/14) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 26th, 2022, 3:12:00 PM
+Last Updated: Monday, September 26th, 2022, 6:12:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
