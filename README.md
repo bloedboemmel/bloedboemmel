@@ -105,7 +105,7 @@ Last Updated: Tuesday, October 25th, 2022, 2:09:51 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
+<i>❝It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
