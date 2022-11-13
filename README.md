@@ -91,15 +91,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#12](https://github.com/timrae/spotify_to_tidal/pull/12#issuecomment-1305233575) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
-2. ❌ Closed PR [#12](https://github.com/timrae/spotify_to_tidal/pull/12) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
-3. 💪 Opened PR [#14](https://github.com/timrae/spotify_to_tidal/pull/14) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
-4. 📔 Created new repository [bloedboemmel/cue-to-txt](https://github.com/bloedboemmel/cue-to-txt)
-5. 🔱 Forked [bloedboemmel/ShadyUrl](https://github.com/bloedboemmel/ShadyUrl) from [petergolde/ShadyUrl](https://github.com/petergolde/ShadyUrl)
+1. 🔱 Forked [bloedboemmel/Tidal-Media-Downloader](https://github.com/bloedboemmel/Tidal-Media-Downloader) from [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+2. 💬 Commented on [#12](https://github.com/timrae/spotify_to_tidal/pull/12#issuecomment-1305233575) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
+3. ❌ Closed PR [#12](https://github.com/timrae/spotify_to_tidal/pull/12) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
+4. 💪 Opened PR [#14](https://github.com/timrae/spotify_to_tidal/pull/14) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
+5. 📔 Created new repository [bloedboemmel/cue-to-txt](https://github.com/bloedboemmel/cue-to-txt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 12th, 2022, 1:40:45 AM
+Last Updated: Sunday, November 13th, 2022, 1:38:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
