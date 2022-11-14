@@ -91,15 +91,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bloedboemmel/Tidal-Media-Downloader](https://github.com/bloedboemmel/Tidal-Media-Downloader) from [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-2. 💬 Commented on [#12](https://github.com/timrae/spotify_to_tidal/pull/12#issuecomment-1305233575) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
-3. ❌ Closed PR [#12](https://github.com/timrae/spotify_to_tidal/pull/12) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
-4. 💪 Opened PR [#14](https://github.com/timrae/spotify_to_tidal/pull/14) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
-5. 📔 Created new repository [bloedboemmel/cue-to-txt](https://github.com/bloedboemmel/cue-to-txt)
+1. 💪 Opened PR [#118](https://github.com/tamland/python-tidal/pull/118) in [tamland/python-tidal](https://github.com/tamland/python-tidal)
+2. 🔱 Forked [bloedboemmel/python-tidal](https://github.com/bloedboemmel/python-tidal) from [tamland/python-tidal](https://github.com/tamland/python-tidal)
+3. 💪 Opened PR [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+4. 🔱 Forked [bloedboemmel/Tidal-Media-Downloader](https://github.com/bloedboemmel/Tidal-Media-Downloader) from [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+5. 💬 Commented on [#12](https://github.com/timrae/spotify_to_tidal/pull/12#issuecomment-1305233575) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 13th, 2022, 1:38:40 AM
+Last Updated: Monday, November 14th, 2022, 1:38:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
