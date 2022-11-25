@@ -91,15 +91,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#118](https://github.com/tamland/python-tidal/pull/118) in [tamland/python-tidal](https://github.com/tamland/python-tidal)
-2. 🔱 Forked [bloedboemmel/python-tidal](https://github.com/bloedboemmel/python-tidal) from [tamland/python-tidal](https://github.com/tamland/python-tidal)
-3. 💪 Opened PR [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-4. 🔱 Forked [bloedboemmel/Tidal-Media-Downloader](https://github.com/bloedboemmel/Tidal-Media-Downloader) from [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-5. 💬 Commented on [#12](https://github.com/timrae/spotify_to_tidal/pull/12#issuecomment-1305233575) in [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal)
+1. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1326882859) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+2. 💪 Opened PR [#118](https://github.com/tamland/python-tidal/pull/118) in [tamland/python-tidal](https://github.com/tamland/python-tidal)
+3. 🔱 Forked [bloedboemmel/python-tidal](https://github.com/bloedboemmel/python-tidal) from [tamland/python-tidal](https://github.com/tamland/python-tidal)
+4. 💪 Opened PR [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+5. 🔱 Forked [bloedboemmel/Tidal-Media-Downloader](https://github.com/bloedboemmel/Tidal-Media-Downloader) from [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 24th, 2022, 1:25:45 AM
+Last Updated: Friday, November 25th, 2022, 1:20:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
