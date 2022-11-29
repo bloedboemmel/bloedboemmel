@@ -91,15 +91,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1326882859) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-2. 💪 Opened PR [#118](https://github.com/tamland/python-tidal/pull/118) in [tamland/python-tidal](https://github.com/tamland/python-tidal)
-3. 🔱 Forked [bloedboemmel/python-tidal](https://github.com/bloedboemmel/python-tidal) from [tamland/python-tidal](https://github.com/tamland/python-tidal)
-4. 💪 Opened PR [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-5. 🔱 Forked [bloedboemmel/Tidal-Media-Downloader](https://github.com/bloedboemmel/Tidal-Media-Downloader) from [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+1. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1328755450) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+2. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1326882859) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+3. 💪 Opened PR [#118](https://github.com/tamland/python-tidal/pull/118) in [tamland/python-tidal](https://github.com/tamland/python-tidal)
+4. 🔱 Forked [bloedboemmel/python-tidal](https://github.com/bloedboemmel/python-tidal) from [tamland/python-tidal](https://github.com/tamland/python-tidal)
+5. 💪 Opened PR [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 28th, 2022, 1:18:39 AM
+Last Updated: Tuesday, November 29th, 2022, 1:20:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
