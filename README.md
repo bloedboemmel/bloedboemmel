@@ -1,13 +1,13 @@
 # GitHub README Connect4  ![](https://komarev.com/ghpvc/?username=bloedboemmel&color=green&label=Visitors)
 
-Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->red<!-- END TURN --> piece.
+Here you can play Connect4. It's your turn to play! Just click under the grid, where to put the next a <!-- BEGIN TURN -->yellow<!-- END TURN --> piece.
 
 <!-- BEGIN CONNECT4 BOARD -->
 |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/yellow.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
@@ -35,9 +35,9 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 | :--: | :----- |
 | `4` |  [ @Sajan-Satheesh](https://github.com/Sajan-Satheesh) | |
 | `4` |  [ @Sajan-Satheesh](https://github.com/Sajan-Satheesh) | |
+| `4` |  [ @Sajan-Satheesh](https://github.com/Sajan-Satheesh) | |
 | `5` |  [ @cbebe](https://github.com/cbebe) | |
 | `3` |  [ @Low-Fat-Lard](https://github.com/Low-Fat-Lard) | |
-| `6` |  [ @shelenberg](https://github.com/shelenberg) | |
 
 <!-- END LAST MOVES -->
 </details>
@@ -53,11 +53,11 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 | 5 |  [@JaouherK](https://github.com/JaouherK) | |
 | 4 |  [@RainerWein](https://github.com/RainerWein) | |
 | 4 |  [@Carol42](https://github.com/Carol42) | |
+| 3 |  [@Sajan-Satheesh](https://github.com/Sajan-Satheesh) | |
 | 2 |  [@jeremie1112](https://github.com/jeremie1112) | |
 | 2 |  [@vikash2806](https://github.com/vikash2806) | |
 | 2 |  [@trinib](https://github.com/trinib) | |
 | 2 |  [@willnaoosmith](https://github.com/willnaoosmith) | |
-| 2 |  [@Trunkios](https://github.com/Trunkios) | |
 
 <!-- END TOP MOVES -->
 </details>
