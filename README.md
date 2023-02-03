@@ -91,15 +91,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1332115114) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-2. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1328755450) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-3. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1326882859) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-4. 💪 Opened PR [#118](https://github.com/tamland/python-tidal/pull/118) in [tamland/python-tidal](https://github.com/tamland/python-tidal)
-5. 🔱 Forked [bloedboemmel/python-tidal](https://github.com/bloedboemmel/python-tidal) from [tamland/python-tidal](https://github.com/tamland/python-tidal)
+1. ⭐ Starred [calcom/docker](https://github.com/calcom/docker)
+2. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1332115114) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+3. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1328755450) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+4. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1326882859) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+5. 💪 Opened PR [#118](https://github.com/tamland/python-tidal/pull/118) in [tamland/python-tidal](https://github.com/tamland/python-tidal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 2nd, 2023, 1:16:22 AM
+Last Updated: Friday, February 3rd, 2023, 1:18:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
