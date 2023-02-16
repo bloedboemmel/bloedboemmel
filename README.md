@@ -106,7 +106,7 @@ Last Updated: Thursday, February 16th, 2023, 1:18:22 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
