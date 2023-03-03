@@ -91,15 +91,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#9](https://github.com/bloedboemmel/PickyPal/pull/9) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-2. 💪 Opened PR [#9](https://github.com/bloedboemmel/PickyPal/pull/9) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-3. 🎉 Merged PR [#8](https://github.com/bloedboemmel/PickyPal/pull/8) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-4. 💪 Opened PR [#8](https://github.com/bloedboemmel/PickyPal/pull/8) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-5. 🎉 Merged PR [#7](https://github.com/bloedboemmel/PickyPal/pull/7) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+1. 📖 Created new wiki page [Privacy-Policy](https://github.com/bloedboemmel/PickyPal/wiki/Privacy-Policy) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+2. 📖 Created new wiki page [Home](https://github.com/bloedboemmel/PickyPal/wiki/Home) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+3. 💬 Commented on [#12](https://github.com/bloedboemmel/PickyPal/issues/12#issuecomment-1452168392) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+4. 💬 Commented on [#2](https://github.com/bloedboemmel/PickyPal/issues/2#issuecomment-1451734981) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+5. 💬 Commented on [#3](https://github.com/bloedboemmel/PickyPal/issues/3#issuecomment-1451676140) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 2nd, 2023, 1:22:27 AM
+Last Updated: Friday, March 3rd, 2023, 3:13:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
