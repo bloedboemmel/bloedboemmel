@@ -91,15 +91,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#18](https://github.com/bloedboemmel/PickyPal/pull/18#pullrequestreview-1377419458) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-2. ❌ Closed PR [#17](https://github.com/bloedboemmel/PickyPal/pull/17) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-3. 💬 Commented on [#17](https://github.com/bloedboemmel/PickyPal/pull/17#issuecomment-1493843670) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-4. 💬 Commented on [#17](https://github.com/bloedboemmel/PickyPal/pull/17#issuecomment-1493842858) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-5. ❌ Closed PR [#17](https://github.com/bloedboemmel/PickyPal/pull/17) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+1. 🎉 Merged PR [#19](https://github.com/bloedboemmel/PickyPal/pull/19) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+2. 🎉 Merged PR [#18](https://github.com/bloedboemmel/PickyPal/pull/18) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+3. ❌ Closed PR [#20](https://github.com/bloedboemmel/PickyPal/pull/20) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+4. 🎉 Merged PR [#21](https://github.com/bloedboemmel/PickyPal/pull/21) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+5. 💪 Opened PR [#21](https://github.com/bloedboemmel/PickyPal/pull/21) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 18th, 2023, 1:07:54 AM
+Last Updated: Wednesday, April 19th, 2023, 1:10:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
