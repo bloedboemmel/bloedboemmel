@@ -92,15 +92,15 @@ I know this code is still quite messy. I will work on it at [My Connect4-Repo](h
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#840](https://github.com/valentjn/vscode-ltex/pull/840) in [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex)
-2. 🔱 Forked [bloedboemmel/vscode-ltex](https://github.com/bloedboemmel/vscode-ltex) from [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex)
-3. 🎉 Merged PR [#19](https://github.com/bloedboemmel/PickyPal/pull/19) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-4. 🎉 Merged PR [#18](https://github.com/bloedboemmel/PickyPal/pull/18) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
-5. ❌ Closed PR [#20](https://github.com/bloedboemmel/PickyPal/pull/20) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+1. 🎉 Merged PR [#23](https://github.com/bloedboemmel/PickyPal/pull/23) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+2. 🎉 Merged PR [#31](https://github.com/bloedboemmel/PickyPal/pull/31) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+3. 💪 Opened PR [#31](https://github.com/bloedboemmel/PickyPal/pull/31) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+4. 🎉 Merged PR [#29](https://github.com/bloedboemmel/PickyPal/pull/29) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
+5. 🎉 Merged PR [#28](https://github.com/bloedboemmel/PickyPal/pull/28) in [bloedboemmel/PickyPal](https://github.com/bloedboemmel/PickyPal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 16th, 2023, 1:10:31 AM
+Last Updated: Wednesday, May 17th, 2023, 1:12:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
