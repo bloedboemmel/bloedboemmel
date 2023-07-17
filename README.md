@@ -32,7 +32,7 @@ Last Updated: Monday, July 17th, 2023, 1:40:11 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
+<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
