@@ -32,7 +32,7 @@ Last Updated: Wednesday, October 11th, 2023, 12:59:32 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
