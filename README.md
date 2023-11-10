@@ -32,7 +32,7 @@ Last Updated: Friday, November 10th, 2023, 1:01:00 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
+<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
