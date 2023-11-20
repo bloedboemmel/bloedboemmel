@@ -32,7 +32,7 @@ Last Updated: Monday, November 20th, 2023, 1:04:02 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝More than 80% of the emails sent daily are spams.❞</i>
+<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
