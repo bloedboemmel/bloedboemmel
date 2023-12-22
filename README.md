@@ -32,7 +32,7 @@ Last Updated: Friday, December 22nd, 2023, 1:01:57 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
+<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
