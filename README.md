@@ -32,7 +32,7 @@ Last Updated: Monday, December 25th, 2023, 1:03:41 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
+<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
