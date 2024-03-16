@@ -32,7 +32,7 @@ Last Updated: Saturday, March 16th, 2024, 12:58:19 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”❞</i>
+<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
