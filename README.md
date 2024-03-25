@@ -18,15 +18,15 @@
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#358](https://github.com/Yooooomi/your_spotify/issues/358#issuecomment-1993882684) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-2. 💬 Commented on [#358](https://github.com/Yooooomi/your_spotify/issues/358#issuecomment-1993875682) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-3. 💪 Opened PR [#367](https://github.com/Yooooomi/your_spotify/pull/367) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-4. 🔱 Forked [bloedboemmel/your_spotify](https://github.com/bloedboemmel/your_spotify) from [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-5. ❌ Closed PR [#840](https://github.com/valentjn/vscode-ltex/pull/840) in [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex)
+1. 💪 Opened PR [#383](https://github.com/Yooooomi/your_spotify/pull/383) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+2. 💬 Commented on [#358](https://github.com/Yooooomi/your_spotify/issues/358#issuecomment-1993882684) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+3. 💬 Commented on [#358](https://github.com/Yooooomi/your_spotify/issues/358#issuecomment-1993875682) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+4. 💪 Opened PR [#367](https://github.com/Yooooomi/your_spotify/pull/367) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+5. 🔱 Forked [bloedboemmel/your_spotify](https://github.com/bloedboemmel/your_spotify) from [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 24th, 2024, 1:05:37 AM
+Last Updated: Monday, March 25th, 2024, 1:01:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
