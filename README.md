@@ -32,7 +32,7 @@ Last Updated: Tuesday, April 16th, 2024, 1:00:41 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝IBM was so powerful in 1983 that people feared that its PCjr home computer would destroy Apple, Commodore, and all other competitors. The PCjr became “one of the biggest flops in the history of computing”.❞</i>
+<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
