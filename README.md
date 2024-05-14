@@ -32,7 +32,7 @@ Last Updated: Tuesday, May 14th, 2024, 1:04:04 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original name of Windows was Interface Manager.❞</i>
+<i>❝In 2010, a high school named Lower Merion School District in Pennsylvania issued a MacBook to each of its 2,306 students, then remotely activated the webcams to spy on the students at home.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
