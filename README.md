@@ -32,7 +32,7 @@ Last Updated: Wednesday, May 22nd, 2024, 1:04:51 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first webcam was used at Cambridge University. Its purpose was to monitor a coffee maker so they didn’t waste trips to an empty pot.❞</i>
+<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
