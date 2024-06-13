@@ -18,15 +18,15 @@
 ## Stop stalking, start talking!
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#383](https://github.com/Yooooomi/your_spotify/pull/383) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-2. 💬 Commented on [#358](https://github.com/Yooooomi/your_spotify/issues/358#issuecomment-1993882684) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-3. 💬 Commented on [#358](https://github.com/Yooooomi/your_spotify/issues/358#issuecomment-1993875682) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-4. 💪 Opened PR [#367](https://github.com/Yooooomi/your_spotify/pull/367) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+1. 💬 Commented on [#10223](https://github.com/immich-app/immich/issues/10223#issuecomment-2163523796) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 💪 Opened PR [#383](https://github.com/Yooooomi/your_spotify/pull/383) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+3. 💬 Commented on [#358](https://github.com/Yooooomi/your_spotify/issues/358#issuecomment-1993882684) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+4. 💬 Commented on [#358](https://github.com/Yooooomi/your_spotify/issues/358#issuecomment-1993875682) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
 5. 🔱 Forked [bloedboemmel/your_spotify](https://github.com/bloedboemmel/your_spotify) from [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 12th, 2024, 1:07:31 AM
+Last Updated: Thursday, June 13th, 2024, 1:06:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
