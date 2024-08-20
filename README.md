@@ -32,7 +32,7 @@ Last Updated: Tuesday, August 20th, 2024, 1:10:47 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
