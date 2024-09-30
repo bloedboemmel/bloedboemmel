@@ -1,5 +1,4 @@
 # Hey Bloedboemmel, what else do you do? 
-## Spotify-Status 🎧
 <p float="left" >
   <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
 </p>
