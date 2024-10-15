@@ -30,7 +30,7 @@ Last Updated: Tuesday, October 15th, 2024, 1:19:44 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.❞</i>
+<i>❝In 2010, a high school named Lower Merion School District in Pennsylvania issued a MacBook to each of its 2,306 students, then remotely activated the webcams to spy on the students at home.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
