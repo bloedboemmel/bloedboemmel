@@ -30,7 +30,7 @@ Last Updated: Wednesday, May 28th, 2025, 1:40:22 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
+<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
