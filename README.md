@@ -30,7 +30,7 @@ Last Updated: Friday, May 30th, 2025, 1:38:14 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
+<i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
