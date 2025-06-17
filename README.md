@@ -30,7 +30,7 @@ Last Updated: Tuesday, June 17th, 2025, 1:42:55 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 1960, the computer at NORAD warned with 99.9% certainty that the Soviets had just launched a full-scale missile attack against North America. NORAD later discovered that the Early Warning System in Greenland had interpreted the moon rising over Norway as a missile attack from Siberia.❞</i>
+<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
