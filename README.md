@@ -30,7 +30,7 @@ Last Updated: Thursday, July 3rd, 2025, 1:43:42 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.❞</i>
+<i>❝The original name of Windows was Interface Manager.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
