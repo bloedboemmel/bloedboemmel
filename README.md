@@ -30,7 +30,7 @@ Last Updated: Friday, August 22nd, 2025, 1:36:59 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+<i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
