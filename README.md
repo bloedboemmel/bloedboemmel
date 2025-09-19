@@ -30,7 +30,7 @@ Last Updated: Friday, September 19th, 2025, 1:25:08 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
+<i>❝There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
