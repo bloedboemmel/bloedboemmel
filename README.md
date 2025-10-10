@@ -30,7 +30,7 @@ Last Updated: Friday, October 10th, 2025, 1:25:01 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
+<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
