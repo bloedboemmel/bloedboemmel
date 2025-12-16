@@ -30,7 +30,7 @@ Last Updated: Tuesday, December 16th, 2025, 1:46:10 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.❞</i>
+<i>❝Well, there are two games that were the first ever made in the US called Asteroids and Lunar Lander in 1980.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
