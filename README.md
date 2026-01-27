@@ -30,7 +30,7 @@ Last Updated: Tuesday, January 27th, 2026, 1:55:52 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
+<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
