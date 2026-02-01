@@ -30,7 +30,7 @@ Last Updated: Sunday, February 1st, 2026, 2:30:34 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.❞</i>
+<i>❝The first word spoken on the internet was “lo”. It was supposed to be “login” but the computer crashed after the first two letters.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
