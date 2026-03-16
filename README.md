@@ -30,7 +30,7 @@ Last Updated: Monday, March 16th, 2026, 2:32:13 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
+<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
