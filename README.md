@@ -30,7 +30,7 @@ Last Updated: Saturday, August 22nd, 2026, 1:13:22 AM
 
 ## Did you know that...
 ... <!--STARTS_HERE_QUOTE_README-->
-<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
+<i>❝An Apple laptop stinks. One 2001 iBook model used a glue that, after 12-18 months, may begin to smell like human body odor. It is so strong that repairs are difficult because the smell makes people nauseous.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
